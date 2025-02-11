@@ -1,3 +1,7 @@
 # Fake-News-Detection
-Abstract:
-The rapid growth of digital media and social networking platforms has led to an increase in the spread of fake news, which can have severe social, political, and economic consequences. This project aims to develop a Fake News Detection System using Machine Learning (ML) and Natural Language Processing (NLP) techniques to classify news articles as real or fake.
+Team-22
+GIREESHA DHULIPUDI(21B21A44E9)
+JAMI NARASIMHA SATYA SAIRAM(21B21A44C5)
+ALLADA MAHESHBABU(21B21A44D9)
+BANDI MOHAN SURYA(21B21A44F2)
+SAKA SRI RAMA KRISHNA(22B25A4403)
